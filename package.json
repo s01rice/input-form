@@ -1,6 +1,7 @@
 {
   "name": "input-form",
   "version": "0.1.0",
+  "homepage": "https://s01rice.github.io/input-form",
   "private": true,
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
